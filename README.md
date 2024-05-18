@@ -20,3 +20,8 @@ To run the Online Scheduler Application, follow these steps:
 
 Also, you can execute main method in OnlineSchedulerApplication class from your IDE. By default the application will run on port 8080
 
+Please find below the samle curls:
+
+curl --location 'http://localhost:8080/operators/3/availableSlots?date=2023-03-15' \
+--data ''
+
