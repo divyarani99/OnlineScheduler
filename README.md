@@ -8,7 +8,7 @@ You have installed Maven.
 Running the Online Scheduler Application
 To run the Online Scheduler Application, follow these steps:
 1. Clone the repository from GitHub.
-   git clone
+   git clone https://github.com/divyarani99/OnlineScheduler.git
 
 2. Navigate to the project directory.
    cd OnlineScheduler
