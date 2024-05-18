@@ -2,8 +2,7 @@ This is a simple online scheduler application built using Java, Spring Boot, and
 
 Prerequisites
 Before you begin, ensure you have met the following requirements:
-You have installed the latest version of Java Development Kit
-You have installed Maven.
+You have installed the latest version of Java Development Kit(JDK 17) and Maven(3)
 
 Running the Online Scheduler Application
 To run the Online Scheduler Application, follow these steps:
