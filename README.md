@@ -7,16 +7,16 @@ You have installed Maven.
 
 Running the Online Scheduler Application
 To run the Online Scheduler Application, follow these steps:
-1. Clone the repository from GitHub.
+1. Clone the repository from GitHub:
    git clone https://github.com/divyarani99/OnlineScheduler.git
 
-2. Navigate to the project directory.
+2. Navigate to the project directory:
    cd OnlineScheduler
 
-3. Build the project using Maven.
+3. Build the project using Maven:
    mvn clean install
 
-4. Run the application.
+4. Run the application:
    mvn spring-boot:run
 
 Also, you can execute main method in OnlineSchedulerApplication class from your IDE. By default the application will run on port 8080
